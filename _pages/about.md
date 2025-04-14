@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1121 School of Computer Science and Technology, 58 Renmin Avenue</p>
+    <p>1121 School of Computer Science and Technology</p>
+    <p>58 Renmin Avenue8</p>
     <p>Haikou 570228</p>
     <p>Hainan, P.R. China</p>
 
@@ -27,4 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a *Natural Language Processing* researcher at Hainan University. I obtained my Ph.D. degree at Zhejiang University & Westlake University, advised by [Prof. Yue Zhang](https://frcchang.github.io/). My research interests are large language model reasoning, especially logical reasoning.
+I'm a *Natural Language Processing* researcher at Hainan University. 
+
+I obtained my Ph.D. degree at Zhejiang University & Westlake University, advised by [Prof. Yue Zhang](https://frcchang.github.io/). 
+
+My research interests are large language model reasoning, especially logical reasoning.
