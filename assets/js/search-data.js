@@ -406,8 +406,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-i-leave-huawei-and-became-an-associate-professor-at-hainan-university",
-          title: 'I leave HUAWEI and became an associate professor at Hainan University.',
+      },{id: "news-i-leave-huawei-and-join-hainan-university-as-an-associate-professor",
+          title: 'I leave HUAWEI and join Hainan University as an associate professor.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
