@@ -1,0 +1,1 @@
+I'm a *Natural Language Processing* researcher at Hainan University. I obtained my Ph.D. degree at Zhejiang University & Westlake University, advised by [Prof. Yue Zhang](https://frcchang.github.io/). My research interests are large language model reasoning, especially logical reasoning.
