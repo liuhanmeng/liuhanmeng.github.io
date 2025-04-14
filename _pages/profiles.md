@@ -19,7 +19,7 @@ profiles:
       <p>Hainan, P.R. China</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
