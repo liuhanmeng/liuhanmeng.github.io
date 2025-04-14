@@ -14,7 +14,11 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>1121 School of Computer Science and Technology, 58 Renmin Avenue</p>
+      <p>1121 School of Computer Science and Technology</p>
+    
+      <p>58 Renmin Avenue</p>
+    
       <p>Haikou 570228</p>
+    
       <p>Hainan, P.R. China</p>
 ---
