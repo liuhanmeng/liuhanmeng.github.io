@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associate Professor | Hainan University</a>. 
+subtitle: Associate Professor | Hainan University. 
 
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>1121 School of Computer Science and Technology, 58 Renmin Avenue</p>
     <p>Haikou 570228</p>
