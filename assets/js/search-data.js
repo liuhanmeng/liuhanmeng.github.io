@@ -409,9 +409,9 @@ ninja.data = [{
       },{id: "news-i-left-huawei-and-joins-hainan-university-as-an-associate-professor",
           title: 'I left HUAWEI and joins Hainan University as an associate professor.',
           description: "",
-          section: "News",},{id: "projects-logical-reasoning-in-large-language-models",
-          title: 'Logical Reasoning in Large Language Models',
-          description: "with background image",
+          section: "News",},{id: "projects-logical-reasoning",
+          title: 'Logical Reasoning',
+          description: "in Large Language Models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
