@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -406,11 +406,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-i-leave-huawei-and-join-hainan-university-as-an-associate-professor",
-          title: 'I leave HUAWEI and join Hainan University as an associate professor.',
+      },{id: "news-i-left-huawei-and-joins-hainan-university-as-an-associate-professor",
+          title: 'I left HUAWEI and joins Hainan University as an associate professor.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-logical-reasoning-in-large-language-models",
+          title: 'Logical Reasoning in Large Language Models',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
