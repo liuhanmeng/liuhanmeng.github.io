@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Logical Reasoning in Large Language Models
-description: with background image
+title: Logical Reasoning
+description: in Large Language Models
 img: assets/img/problem.png
 importance: 1
 category: work
