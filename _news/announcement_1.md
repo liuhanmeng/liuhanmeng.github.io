@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I leave HUAWEI and join Hainan University as an associate professor.
+I left HUAWEI and joins Hainan University as an associate professor.

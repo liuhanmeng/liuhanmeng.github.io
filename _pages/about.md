@@ -33,6 +33,12 @@ latest_posts:
 
 I'm a *Natural Language Processing* researcher at Hainan University. 
 
-I obtained my Ph.D. degree at Zhejiang University & Westlake University, advised by [Prof. Yue Zhang](https://frcchang.github.io/). 
+I obtained my Ph.D. degree at Zhejiang University & Westlake University in 2024. 
+
+I was advised by [Prof. Yue Zhang](https://frcchang.github.io/) at [WestlakeNLP Lab](https://westlakenlp.com/). As one of the first members of WestlakeNLP Lab, I designed the [badge](http://westlakenlp.com/wp-content/uploads/2025/01/sch-300x300.png) of the lab, cooperated with Prof Yue Zhang for the [NLP MOOC](https://westlakenlp.github.io/nlpml/).
+
+After graduation, I joined Huawei as a senior engineer at the department of ICT.
 
 My research interests are large language model reasoning, especially logical reasoning.
+
+I have a [BILIBILI](https://space.bilibili.com/1740425042) channel. I'm planning to share more contents on LLM tutorials and AI podcasts.
