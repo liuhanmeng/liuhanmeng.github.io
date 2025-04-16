@@ -3,8 +3,8 @@ layout: post
 title: 大模型约束解码（Constrained decoding）与结构化输出
 date: 2025-04-15 15:09:00
 description: Generating structured data from unstructured inputs is one of the core use cases for AI in today's applications.
-tags: formatting
-categories: sample-posts
+tags: llm
+categories: insight
 ---
 
 # 背景
