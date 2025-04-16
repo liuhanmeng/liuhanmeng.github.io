@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "news-i-left-huawei-and-joins-hainan-university-as-an-associate-professor",
+            },{id: "post-大模型约束解码-constrained-decoding-与结构化输出",
+        
+          title: "大模型约束解码（Constrained decoding）与结构化输出",
+        
+        description: "Generating structured data from unstructured inputs is one of the core use cases for AI in today&#39;s applications.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/structured-output/";
+          
+        },
+      },{id: "news-i-left-huawei-and-joins-hainan-university-as-an-associate-professor",
           title: 'I left HUAWEI and joins Hainan University as an associate professor.',
           description: "",
           section: "News",},{id: "projects-logical-reasoning",
