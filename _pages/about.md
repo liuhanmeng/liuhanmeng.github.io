@@ -42,3 +42,5 @@ After graduation, I joined Huawei as a senior engineer at the department of ICT.
 My research interests are large language model reasoning, especially logical reasoning.
 
 I have a [BILIBILI](https://space.bilibili.com/1740425042) channel. I'm planning to share more contents on LLM tutorials and AI podcasts.
+
+Shoutout to [my big bro](https://liuhx262.github.io) — I couldn’t have started my PhD journey without him.
