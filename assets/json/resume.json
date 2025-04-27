@@ -24,13 +24,22 @@
   },
   "work": [
     {
+      "name": "ICT Department, Huawei Tech",
+      "position": "L17 Senior Engineer A",
+      "url": "https://e.huawei.com/en/solutions/services",
+      "startDate": "2024.10.12",
+      "endDate": "2025.04.09",
+      "summary": "Supervised by Qi Zhang",
+      "highlights": ["SmartBI","Data Governance","AI Committer"]
+    },
+    {
       "name": "School of Computer Science and Technology, Hainan University",
       "position": "Associate Professor of Computer Science",
       "url": "https://hainanu.edu.cn",
       "startDate": "2025.04.12",
       "endDate": "",
       "summary": "Working with Professor Xiaozhang Liu",
-      "highlights": ["reasoning and inference"]
+      "highlights": ["multimodal reasoning and inference"]
     }
   ],
   "education": [
