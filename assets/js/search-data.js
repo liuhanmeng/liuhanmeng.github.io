@@ -65,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-大模型约束解码-constrained-decoding-与结构化输出",
+            },{id: "post-当我们在谈论大模型时-我们到底在谈论什么-一场意外点燃的-智能之火",
+        
+          title: "当我们在谈论大模型时，我们到底在谈论什么？——一场意外点燃的“智能之火”",
+        
+        description: "一场“语言魔术”的意外走红",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-is-llm/";
+          
+        },
+      },{id: "post-从-做题家-到-造浪者-华人如何成为全球ai大模型的-隐形统治者",
+        
+          title: "从“做题家”到“造浪者”：华人如何成为全球AI大模型的“隐形统治者”",
+        
+        description: "当世界最聪明的头脑，都在说中文",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chinese-ai/";
+          
+        },
+      },{id: "post-大模型约束解码-constrained-decoding-与结构化输出",
         
           title: "大模型约束解码（Constrained decoding）与结构化输出",
         
