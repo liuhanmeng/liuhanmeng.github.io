@@ -39,7 +39,7 @@ I was advised by [Prof. Yue Zhang](https://frcchang.github.io/) at [WestlakeNLP 
 
 After graduation, I joined Huawei as a senior engineer at the department of ICT.
 
-My research interests are large language model reasoning, especially logical reasoning.
+My research interests include large language model reasoning (especially logical reasoning) and the reliability and explainability of large language models in legal, medical, intelligence, and financial domains.
 
 I have a [BILIBILI](https://space.bilibili.com/1740425042) channel. I'm planning to share more contents on LLM tutorials and AI podcasts.
 

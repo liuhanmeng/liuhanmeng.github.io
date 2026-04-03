@@ -37,11 +37,11 @@ categories: insight
 
 2025年7月，硅谷发生了一场“地震”：Meta为组建“超级智能实验室”，以1亿美元签字费挖走了OpenAI的核心团队，其中4位是华人科学家；马斯克xAI发布的Grok 4团队中，华人占比高达80%。这不是偶然——斯坦福大学报告显示，全球顶尖AI人才中，47%本科毕业于中国高校。从ChatGPT到Gemini，从英伟达GPU到Transformer架构，华人不再是“参与者”，而是“定义者”。他们如何从“奥数少年”成长为“AI造浪者”？这场崛起背后，是一场跨越40年的精密布局。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **硅谷的“华人军团”：从边缘到C位**
 
-![](https://i0.hdslb.com/bfs/new_dyn/watermark/c05b7c41e4d53d1445b2f7f7766659ce1740425042.jpg@1192w.webp)
+
 
 —— 一份“正在刷新”的实时花名册
 
@@ -88,7 +88,7 @@ categories: insight
 
 从 ResNet 到 Transformer-XL，从 ChatGPT 到 Grok 4，华人科学家不再只是“参与者”，而是规则制定者。当世界最聪明的头脑开始默认用中文讨论梯度下降，历史已经把麦克风递到了他们手里。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **数据暴击：华人“统治力”有多强？**
 

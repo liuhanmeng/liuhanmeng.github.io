@@ -13,7 +13,6 @@ categories: insight
 
 ![](https://i0.hdslb.com/bfs/new_dyn/watermark/5949da11874e27f10eb2cb48ce77be001740425042.png@1192w.webp)
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 
 **01｜ChatGPT的“一夜成名”，其实是三年前的“老酒”**
 
@@ -40,7 +39,6 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 这场爆发，像极了人类历史上无数次“技术偶然”——不是蒸汽机改变了世界，而是瓦特把它装进了纺织机。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 
 **02｜大模型到底是什么？一个“语言炼金术”的意外**
 
@@ -61,7 +59,7 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 科学家把这种不可解释的突变称为“涌现”（Emergence）——量变到质变的神秘一跃。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **03｜为什么智能“只”涌现于语言？**
 
@@ -88,7 +86,6 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 相比之下，图像识别只是“看见”，机器人只是“移动”，它们没有语言这种“高密度知识载体”。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 
 **04｜当大模型开始“入侵”其他领域**
 
@@ -105,7 +102,7 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 所有模态，最终都被翻译成“语言”来解决。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **05｜但魔法也有失灵时：大模型的“青春期烦恼”**
 
@@ -128,7 +125,7 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 我们也一点办法都没有
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **06｜公众误区与企业话术：谁在贩卖焦虑？**
 
@@ -142,7 +139,7 @@ ChatGPT的成功连OpenAI自己都没预料到。后来复盘，OpenAI自己承�
 
 焦虑不是模型生成的，是被“卖课、卖卡、卖概念”的人批发的。
 
-![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+
 
 **07｜在“世界模型”到来之前：大模型就是大语言模型**
 
